@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClassLibrary5/ClassLibrary5.csproj" />
+  <Project Path="ConsoleApp5/ConsoleApp5.csproj" />
+</Solution>
